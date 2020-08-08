@@ -28,3 +28,9 @@ To run the application, use the following command:
 ```
 $ npm run dev
 ```
+
+#### Ruchit added
+VS Code
+Postman
+Studio 3T
+Github desktop
